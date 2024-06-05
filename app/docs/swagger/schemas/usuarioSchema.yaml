@@ -1,0 +1,12 @@
+type: object
+properties:
+  email:
+    type: string
+  roles:
+    type: array
+    items:
+      type: integer
+  perfiles:
+    type: array
+    items:
+      type: integer
