@@ -48,10 +48,6 @@ Ingresar a: [http://localhost:8000/docs/](http://localhost:8000/docs/), y se mos
 
 
 
-![imagen-documentacion](https://next.salud.gob.sv/index.php/s/tz22JEaHsMe8yw7)
-
-
-
 ### Autenticación
 
 El método de autenticación definido e integrado a la plantilla de desarrollo de APIs es **`JWT`** el cuál utiliza un token para toda la comunicación que se realiza a través de los endpoints que han sido asegurados.
@@ -143,7 +139,7 @@ En donde:
 
 
 
-- **admin@salud.gob.sv** Es el nombre de usuario creado en el **[paso 1.4](INSTALL.md#14-ejecución-de-migraciones)** del **[INSTALL.md](INSTALL.md)**.
+- **admin@ues.edu.sv** Es el nombre de usuario creado en el **[paso 1.4](INSTALL.md#14-ejecución-de-migraciones)** del **[INSTALL.md](INSTALL.md)**.
 
 - **admin:** Es la contraseña del usuario creado en el **[paso 1.4](INSTALL.md#14-ejecución-de-migraciones)** del **[INSTALL.md](INSTALL.md)**.
 
